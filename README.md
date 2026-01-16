@@ -1,7 +1,7 @@
 # Communicate Using Markdown
 ## GitHub Skills Practice
 
-### What I learned
+### What I learned 
 - Using Markdown headers
 - Creating lists
 - Adding images
